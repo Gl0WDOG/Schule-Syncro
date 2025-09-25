@@ -7,11 +7,8 @@
 - **[[00 - Klausur OS-02]]**
 - **[[00 - Selbsteinschätzungen]]**
 - [[00 - Übersicht.excalidraw]]
-- [[00 - Übersicht]]
 - [[01 - Obsidian.excalidraw]]
-- [[01 - Obsidian]]
 - [[02 - Einrichtung GitHub und Basics Git.excalidraw]]
-- [[02 - Einrichtung GitHub und Basics Git]]
 - **[[Anhänge]]**
 	- [[00 - Übersicht Blockchain (Material).png]]
 	- [[Blockchain_WhitePaper_Grundlagen-Anwendungen-Potentiale.pdf]]
@@ -30,10 +27,6 @@
 - [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
-	- [[Baecker_FILTER_TEILERGEBNIS.xls]]
-	- [[Baecker_org_BASIS.xls]]
-	- [[Baecker_org_INDEX_und_Matrix.xlsx]]
-	- [[Baecker_org_Pivot.xlsx]]
 - [[git-autocommit.sh]]
 - [[hello_world.php]]
 - [[index.html]]
@@ -90,6 +83,8 @@
 	- [[14b - Aufgaben Optimierungsalgorithmus]]
 	- [[14b - Loesungen Optimierungsalgorithmus]]
 	- [[15 - Dateiformate zum Datenaustausch (JSON, XML)]]
+	- [[15a - Lösungen Dateiaustauschformate.excalidraw]]
+	- [[15b - Musterlösungen Dateiaustauschformate]]
 	- [[16 - Verschlüsselung]]
 	- [[99 - Mögliche Projekte]]
 	- **Anhänge**
@@ -122,7 +117,6 @@
 	- [[Bsp_Dokumentation.pdf]]
 	- **[[Container]]**
 	- [[Praktische Software-Entwicklung unter Verwendung von LLM (am Beispiel von Anthropic Claude)]]
-	- [[Themenspeicher zu Lernendes]]
 	- **[[Übungsklausuren]]**
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
