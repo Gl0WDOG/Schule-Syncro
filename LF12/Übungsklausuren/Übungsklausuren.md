@@ -14,5 +14,6 @@
 - **[[2024-Herbst]]**
 - **[[2024-Sommer]]**
 - [[2025-10-02 Welche Aufgaben sind dringend zu wiederholen]]
+- **Anhänge**
 
 %% End Waypoint %%
