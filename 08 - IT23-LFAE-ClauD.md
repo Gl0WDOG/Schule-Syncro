@@ -23,7 +23,7 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[08 - IT23-LFAE-ClauD/Anhänge/Unbenannt]]
+	- [[Unbenannt]]
 - [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
@@ -80,6 +80,7 @@
 	- [[13a - IT-Sicherheit und Datenschutz]]
 	- [[13a - Lösung Risikoanalye und Schutzbedarf.mdenc]]
 	- [[13a - Risikoanalyse und Schutzanalyse.excalidraw]]
+	- [[13a - Risikoanalyse und Schutzanalyse.excalidraw.svg]]
 	- [[13b - Qualitätssicherung]]
 	- [[13c - Testverfahren (Software)]]
 	- [[13c - Übersicht Testverfahren.excalidraw]]
