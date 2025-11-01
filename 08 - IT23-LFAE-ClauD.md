@@ -23,15 +23,14 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[08 - IT23-LFAE-ClauD/Anhänge/Unbenannt]]
+	- [[Unbenannt]]
 - [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
-- [[git-autocommit.sh]]
-- [[hello_world.php]]
 - [[index.html]]
 - **[[IT24-LF4]]**
 - [[Klausurthemen IT22]]
+- [[Klausurthemen IT23]]
 - **[[LF10]]**
 - **[[LF12]]**
 	- [[00 - Übersicht über Themen LF12.excalidraw.excalidraw]]
