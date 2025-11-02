@@ -28,7 +28,6 @@
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
 - [[index.html]]
-- **[[IT24-LF4]]**
 - [[Klausurthemen IT22]]
 - [[Klausurthemen IT23]]
 - **[[LF10]]**
