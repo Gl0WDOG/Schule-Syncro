@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cadfa7ecf0dd3044",
+        "id": "3ef5aa4f3abc3f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9669bedcc7db13ed",
+            "id": "eee2b5aa5c292dec",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2025-09-25 13.39.36.excalidraw.md"
+                "file": "LF12/12 - Design Pattern.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-25 13.39.36.excalidraw"
+              "title": "12 - Design Pattern.excalidraw"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2025-09-25 13.39.36.excalidraw.md",
+            "file": "LF12/12 - Design Pattern.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,13 +154,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9669bedcc7db13ed",
+  "active": "eee2b5aa5c292dec",
   "lastOpenFiles": [
+    "LF12/12 - Design Pattern.excalidraw.md",
+    "LF12/Übungsklausuren/2021-Herbst/GA1_Anwendungsentw_Aufgaben.pdf",
+    "LF12/12a - Info Design pattern.md",
+    "LF12/Übungsklausuren/2021-Herbst/Drawing 2025-10-09 10.28.26.excalidraw.md",
+    "Drawing 2025-09-25 13.39.36.excalidraw.md",
     "00 - Übersicht.excalidraw.md",
     "00 - Übersicht.md",
     "LF12/15 - test pushDateiformate zum Datenaustausch (JSON, XML).md",
     "Verbesserungsideen Unterricht.md",
-    "Drawing 2025-09-25 13.39.36.excalidraw.md",
     "Untitled.md",
     "Untitled.canvas",
     "Excel-Übung/Excel-Übung.md"
