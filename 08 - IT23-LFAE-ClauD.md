@@ -23,7 +23,7 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Unbenannt]]
+	- [[Klausuren 2025-26 1. Hj.]]
 - [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
