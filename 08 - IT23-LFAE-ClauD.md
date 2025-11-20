@@ -5,6 +5,7 @@
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
 - **[[00 - Klausur OS-02]]**
+- [[00 - Musterlösungen Klausur IT23 1]]
 - **[[00 - Selbsteinschätzungen]]**
 - [[00 - Übersicht.excalidraw]]
 - [[01 - Obsidian.excalidraw]]
@@ -127,6 +128,7 @@
 	- **[[Übungsklausuren]]**
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
+- [[Prüfungsthemen AP2]]
 - [[README]]
 - [[ShareMyPlugin]]
 - [[Themenspeicher]]
