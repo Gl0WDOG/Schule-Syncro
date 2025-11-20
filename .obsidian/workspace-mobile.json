@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef5aa4f3abc3f9e",
+        "id": "83f617ae17d1fc4f",
         "type": "tabs",
         "children": [
           {
-            "id": "eee2b5aa5c292dec",
+            "id": "62ed769a02c6c3cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LF12/Übungsklausuren/2023-Sommer/01 Anwendungsentwickler.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 Anwendungsentwickler"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -154,12 +152,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eee2b5aa5c292dec",
+  "active": "62ed769a02c6c3cd",
   "lastOpenFiles": [
+    "LF12/Übungsklausuren/2023-Sommer/01 Anwendungsentwickler.pdf",
     "LF12/Übungsklausuren/Übungsklausuren.md",
     "LF12/00 - Übersicht über Themen LF12.md",
     "LF12/Übungsklausuren/2025-10-02 Welche Aufgaben sind dringend zu wiederholen.md",
-    "LF12/Übungsklausuren/2023-Sommer/01 Anwendungsentwickler.pdf",
     "LF12/Übungsklausuren/2023-Sommer/Drawing 2025-11-13 08.02.52.excalidraw.md",
     "LF12/Übungsklausuren/2023-Sommer/2023-Sommer.md",
     "Klausurthemen IT23.md",
